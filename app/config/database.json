@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "root",
+    "username": "adit",
     "password": "@d3biaN123",
     "database": "db_mieayu",
     "host": "128.199.101.34",
@@ -8,17 +8,18 @@
     "port": "3306"
   },
   "test": {
-    "username": "root",
+    "username": "adit",
     "password": null,
     "database": "database_test",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
+    "username": "adit",
     "password": "@d3biaN123",
     "database": "db_mieayu",
     "host": "128.199.101.34",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "port": "3306"
   }
 }
