@@ -3,8 +3,9 @@
     "username": "root",
     "password": "@d3biaN123",
     "database": "db_mieayu",
-    "host": "localhost",
-    "dialect": "mysql"
+    "host": "128.199.101.34",
+    "dialect": "mysql",
+    "port": "3306"
   },
   "test": {
     "username": "root",
