@@ -3,7 +3,7 @@
     "username": "root",
     "password": "@d3biaN123",
     "database": "db_mieayu",
-    "host": "128.199.101.34",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
