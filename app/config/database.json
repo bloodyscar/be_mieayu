@@ -15,9 +15,9 @@
   },
   "production": {
     "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "password": "@d3biaN",
+    "database": "db_mieayu",
+    "host": "128.199.101.34",
     "dialect": "mysql"
   }
 }
