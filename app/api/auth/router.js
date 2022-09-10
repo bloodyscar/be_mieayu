@@ -1,11 +1,9 @@
 var express = require('express');
 var router = express.Router();
+const { createUser, login } = require('./controller')
 
 /* GET home page. */
-router.post('/register', function (req, res, next) {
-    res.status(200).json({
-        message: 'OK'
-    })
-});
+router.post('/register',  createUser);
+router.post('/login', login);
 
 module.exports = router;
