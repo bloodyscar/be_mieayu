@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "root",
-    "password": null,
+    "password": "@d3biaN",
     "database": "db_mieayu",
-    "host": "127.0.0.1",
+    "host": "128.199.101.34",
     "dialect": "mysql"
   },
   "test": {
