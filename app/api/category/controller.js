@@ -22,13 +22,10 @@ module.exports = {
 
             }
 
-
-
-
         } catch (error) {
             res.status(500).json({
                 message: 'FAILED',
-                error: error.name
+                error: error
             })
         }
     }
