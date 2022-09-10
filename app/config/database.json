@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "root",
-    "password": "Aditaja123@",
+    "username": "sammy",
+    "password": "@aditaja123A",
     "database": "db_mieayu",
     "host": "128.199.101.34",
     "dialect": "mysql",
@@ -9,14 +9,14 @@
   },
   "test": {
     "username": "root",
-    "password": null,
+    "password": "@d3biaN123",
     "database": "database_test",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "Aditaja123@",
+    "username": "sammy",
+    "password": "@aditaja123A",
     "database": "db_mieayu",
     "host": "128.199.101.34",
     "dialect": "mysql",
