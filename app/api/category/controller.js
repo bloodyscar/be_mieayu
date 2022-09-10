@@ -24,7 +24,7 @@ module.exports = {
 
         } catch (error) {
             res.status(500).json({
-                message: 'FAILED',
+                message: 'failed',
                 error: error
             })
         }
